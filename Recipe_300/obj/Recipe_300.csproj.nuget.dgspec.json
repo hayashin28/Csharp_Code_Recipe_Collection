@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\PortableApps\\VSCodePortable\\workspace\\Csharp_Code_Recipe_Collection\\Recipe_300\\Recipe_300.csproj": {}
+  },
+  "projects": {
+    "F:\\PortableApps\\VSCodePortable\\workspace\\Csharp_Code_Recipe_Collection\\Recipe_300\\Recipe_300.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PortableApps\\VSCodePortable\\workspace\\Csharp_Code_Recipe_Collection\\Recipe_300\\Recipe_300.csproj",
+        "projectName": "Recipe_300",
+        "projectPath": "F:\\PortableApps\\VSCodePortable\\workspace\\Csharp_Code_Recipe_Collection\\Recipe_300\\Recipe_300.csproj",
+        "packagesPath": "D:\\Users\\hayas\\.nuget\\packages\\",
+        "outputPath": "F:\\PortableApps\\VSCodePortable\\workspace\\Csharp_Code_Recipe_Collection\\Recipe_300\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\hayas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "F:\\PortableApps\\VSCodePortable\\dotnet-sdk\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
