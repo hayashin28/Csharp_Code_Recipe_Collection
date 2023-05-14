@@ -1,0 +1,15 @@
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\obj\Debug\net7.0\Recipe_095.csproj.AssemblyReference.cache
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\obj\Debug\net7.0\Recipe_095.GeneratedMSBuildEditorConfig.editorconfig
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\obj\Debug\net7.0\Recipe_095.AssemblyInfoInputs.cache
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\obj\Debug\net7.0\Recipe_095.AssemblyInfo.cs
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\obj\Debug\net7.0\Recipe_095.csproj.CoreCompileInputs.cache
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\bin\Debug\net7.0\Recipe_095.exe
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\bin\Debug\net7.0\Recipe_095.deps.json
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\bin\Debug\net7.0\Recipe_095.runtimeconfig.json
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\bin\Debug\net7.0\Recipe_095.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\bin\Debug\net7.0\Recipe_095.pdb
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\obj\Debug\net7.0\Recipe_095.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\obj\Debug\net7.0\refint\Recipe_095.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\obj\Debug\net7.0\Recipe_095.pdb
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\obj\Debug\net7.0\Recipe_095.genruntimeconfig.cache
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_095\obj\Debug\net7.0\ref\Recipe_095.dll
