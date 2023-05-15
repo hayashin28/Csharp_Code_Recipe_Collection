@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Recipe_119/1.0.0": {
+        "runtime": {
+          "Recipe_119.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recipe_119/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
