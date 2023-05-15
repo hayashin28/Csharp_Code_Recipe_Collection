@@ -13,7 +13,7 @@ stack.Push(30);
 var peekValue = stack.Peek();
 Console.WriteLine(peekValue);
 
-// stackの要素巣を取得
+// stackの要素数を取得
 Console.WriteLine(stack.Count);
 
 while (stack.Count > 0)
