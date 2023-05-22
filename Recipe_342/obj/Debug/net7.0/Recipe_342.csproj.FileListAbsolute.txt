@@ -39,3 +39,10 @@ F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_34
 F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_342\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_342\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_342\obj\Debug\net7.0\Recipe_342.csproj.CopyComplete
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_342\bin\Debug\net7.0\Microsoft.Office.Interop.Excel.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_342\bin\Debug\net7.0\ClosedXML.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_342\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_342\bin\Debug\net7.0\ExcelNumberFormat.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_342\bin\Debug\net7.0\Irony.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_342\bin\Debug\net7.0\System.IO.Packaging.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_342\bin\Debug\net7.0\XLParser.dll
