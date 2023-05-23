@@ -39,3 +39,9 @@ F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_34
 F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_345\obj\Debug\net7.0\Recipe_345.pdb
 F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_345\obj\Debug\net7.0\Recipe_345.genruntimeconfig.cache
 F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_345\obj\Debug\net7.0\ref\Recipe_345.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_345\bin\Debug\net7.0\ClosedXML.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_345\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_345\bin\Debug\net7.0\ExcelNumberFormat.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_345\bin\Debug\net7.0\Irony.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_345\bin\Debug\net7.0\System.IO.Packaging.dll
+F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_345\bin\Debug\net7.0\XLParser.dll
