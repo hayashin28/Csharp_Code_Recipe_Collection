@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System.Security.AccessControl;
+// See https://aka.ms/new-console-template for more information
+/*
 using Recipe_343;
 
 var xls = MyExcelBook.Create("example.xlsx");
@@ -13,3 +15,27 @@ for (int i = 0; i < 3; i++)
     }
 }
 xls.Save();
+*/
+using ClosedXML.Excel;
+
+var path = "sample.xlsx";
+
+// ブックを生成
+using (var workbook = new XLWorkbook())
+{
+    // シートを生成
+    var worksheet = workbook.Worksheets.Add("mySheet");
+    // 上書き保存設定
+    // workbook.Save();
+    for (int i = 1; i <= 3; i++)
+    {
+        for (int j = 1; j <= 5; j++)
+        {
+            // セルに値を代入(いろんな指定ができます)
+            worksheet.Cell(i, j).Value = $"{i} - {j}";
+        }
+    }
+    // 保存
+    workbook.SaveAs(path);
+}
+Console.WriteLine("Excelファイルを保存しました。");
