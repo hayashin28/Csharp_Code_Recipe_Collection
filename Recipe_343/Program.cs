@@ -18,7 +18,7 @@ xls.Save();
 */
 using ClosedXML.Excel;
 
-var path = "sample.xlsx";
+var path = "example.xlsx";
 
 // ブックを生成
 using (var workbook = new XLWorkbook())
