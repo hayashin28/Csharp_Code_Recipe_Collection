@@ -25,8 +25,7 @@ using (var workbook = new XLWorkbook())
 {
     // シートを生成
     var worksheet = workbook.Worksheets.Add("mySheet");
-    // 上書き保存設定
-    // workbook.Save();
+
     for (int i = 1; i <= 3; i++)
     {
         for (int j = 1; j <= 5; j++)
