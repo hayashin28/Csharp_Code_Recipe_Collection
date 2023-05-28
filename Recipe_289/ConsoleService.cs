@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Configuration;
 
-namespace Recipe_289 {
+namespace Gihyo {
 
     public class ConsoleService : IHostedService 
     {

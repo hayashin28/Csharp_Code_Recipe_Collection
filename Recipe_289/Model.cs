@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace Recipe_289 {
+namespace Gihyo {
 
     public class Post {
         public int PostId { get; set; }

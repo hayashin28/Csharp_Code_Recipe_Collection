@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Linq;
 
-namespace Recipe_289
+namespace Gihyo
 {
 
 	public class MyWorker : IConsoleWorker

@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Sqlite;
 
 // SQLiteの例です。
-namespace Recipe_289
+namespace Gihyo
 {
 
 	// ASP.NET CoreのStartup.csに似せたクラス

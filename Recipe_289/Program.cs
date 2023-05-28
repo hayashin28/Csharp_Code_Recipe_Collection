@@ -4,7 +4,7 @@ using Microsoft.Extensions.Logging;
 
 // コンソールアプリケーションで汎用ホストを利用している。
 // ASP.NET Coreと似せて、Startupクラスでデータベースをサービスに登録している。
-namespace Recipe_289 {
+namespace Gihyo {
     class Program {
         static async Task Main(string[] args) =>
             await CreateHostBuilder(args).Build().RunAsync();

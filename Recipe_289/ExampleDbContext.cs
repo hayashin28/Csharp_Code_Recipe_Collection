@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace Recipe_289
+
+namespace Gihyo
 {
 
 	public class ExampleDbContext : DbContext
