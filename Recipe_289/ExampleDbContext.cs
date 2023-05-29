@@ -1,18 +1,23 @@
+using System;
 using Microsoft.EntityFrameworkCore;
 
 
-namespace Gihyo
-{
+namespace DBSample.EF {
 
-	public class ExampleDbContext : DbContext
-	{
-		public ExampleDbContext(DbContextOptions<ExampleDbContext> options)
-			: base(options)
-		{
-		}
+    public class ExampleDbContext : DbContext
+    {
+/*	
+        public void ConfigureServices(IServiceCollection services)
+        {   
+            services.AddDbContext<ExampleDbContext>(options =>
+                options.UseNpgsql(Configuration.GetConnectionString("ExampleDbContext")));
+        }
+*/
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseNpgsql("Host=175.41.203.140; Port=5432; Username=hayashi; Password=ya53mmfe; Database=postgres01");
+        }
 
-		// public DbSet<User> Users { get; set; }
-		public DbSet<Post> Posts { get; set; }
+    }
 
-	}
 }
