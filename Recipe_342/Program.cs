@@ -20,7 +20,7 @@ try
     {
         // シートを生成
         var worksheet = workbook.Worksheets.Add("mySheet");
-        Console.WriteLine(path);
+
         // 拡張子を付けて保存
         workbook.SaveAs(string.Concat(path, ".xlsx"));
     }
