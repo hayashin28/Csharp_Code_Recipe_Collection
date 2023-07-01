@@ -1,4 +1,3 @@
-F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_291\bin\Debug\net7.0\appsettings.json
 F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_291\bin\Debug\net7.0\Recipe_291.exe
 F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_291\bin\Debug\net7.0\Recipe_291.deps.json
 F:\PortableApps\VSCodePortable\workspace\Csharp_Code_Recipe_Collection\Recipe_291\bin\Debug\net7.0\Recipe_291.runtimeconfig.json

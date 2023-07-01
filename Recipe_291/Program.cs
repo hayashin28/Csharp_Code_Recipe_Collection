@@ -14,9 +14,9 @@ namespace DBSample
             using (ExampleDbContext contexts = new ExampleDbContext())
             {
                 var result =
-                    from shohin in contexts.shohinModel
-                    join tenpoShohin in contexts.tenpoShohinModel
-                    on   shohin.Shohin_Id equals tenpoShohin.Shohin_Id
+                    from  shohin in contexts.shohinModel
+                    join  tenpoShohin in contexts.tenpoShohinModel
+                    on    shohin.Shohin_Id equals tenpoShohin.Shohin_Id
                     select new {
                         tenpoShohin.Tenpo_Id
                     ,   tenpoShohin.Tenpo_Mei
